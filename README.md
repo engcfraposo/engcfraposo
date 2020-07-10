@@ -45,14 +45,6 @@ Disponibilidade de horário, de viagens, de mudança e participação de treinam
 
 Especialista corporativo e estrategista de soluções, com experiência em desenvolvimento e melhoramento de projetos com Styled Component, React-Native-Maps, Leaflet.js, Socket.io, AsyncStorage, JWT e Bcrypt, Cors, Morgan, Banco não relacionais (MongoDb, RealmDB e Redis), Banco Relacionais (MySql, SQL Server, Oracle, Postgres), ORM’s (Mongoose, Sequelize e TypeORM) com microserviços (Docker e Kubenetes) e ferramentas de teste Jest e Enzyme. Com desenvolvimento de diversos ambientes em JavaScript e TypeScript.
 
-## Nível
-
-- [ ] Estágio
-- [x] Júnior
-- [ ] Pleno
-- [ ] Sênior
-
-
 ## Tipo de contratação
 
 
