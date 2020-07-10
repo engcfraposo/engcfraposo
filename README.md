@@ -32,14 +32,9 @@ https://engcfraposo.github.io/
     <img alt="Stargazers" src="https://img.shields.io/github/stars/engcfraposo/jst-job-challenges-frontend?style=social">
   </a>
 
-
-<p align="center" >
-  <a href="#fire-prévia-da-aplicação"> :fire: Prévia da Aplicação</a> |
-  <a href="#rocket-tecnologias-usadas"> :rocket: Tecnologias Usadas</a> |
-  <a href="#hammer-deploy-da-aplicação"> :hammer: Deploy da Aplicação</a> |
-  <a href="#thinking-como-contribuir?"> :thinking: Como Contribuir?</a> |
-  <a href="#zap-executando-o-projeto"> :zap: Executando o Projeto </a> |
-</p>
+<div align="center">
+<img src="./img/dashboard.gif" alt="preview"/>
+</div>
 
 </div>
 
