@@ -24,7 +24,7 @@ https://engcfraposo.github.io/
 
 <div align="center" style="margin: 20px;">
 <div align="center">
-<img src="./img/logo.png" alt="preview"/>
+<img src="engcfraposo/img/dashboard.gif" alt="preview"/>
 </div>
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/jvictorfarias/engcfraposo/jst-job-challenges-frontend/LICENSE.md)
