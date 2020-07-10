@@ -31,14 +31,6 @@
   ============================
 -->
 
-## Nome completo
-
-Cláudio Filipe Lima Rapôso
-
-## Localidade
-
-Recife-PE
-
 ## Apresentação
 
 Profissional focado em resultado, sempre em busca de oportunidades e incansável em novos desafios e capacidade de aprendizagem rapida.
