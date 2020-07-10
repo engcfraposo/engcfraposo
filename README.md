@@ -23,6 +23,9 @@ https://engcfraposo.github.io/
 ## Portfolio
 
 <div align="center" style="margin: 20px;">
+<div align="center">
+<img src="./img/dashboard.gif" alt="preview"/>
+</div>
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/jvictorfarias/engcfraposo/jst-job-challenges-frontend/LICENSE.md)
 ![GitHub last commit](https://img.shields.io/github/last-commit/engcfraposo/jst-job-challenges-frontend?color=green&style=flat-square)
@@ -31,10 +34,6 @@ https://engcfraposo.github.io/
 <a href="https://github.com/engcfraposo/jst-job-challenges-frontend/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/engcfraposo/jst-job-challenges-frontend?style=social">
   </a>
-
-<div align="center">
-<img src="./img/dashboard.gif" alt="preview"/>
-</div>
 
 </div>
 
