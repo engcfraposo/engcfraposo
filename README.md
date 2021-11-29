@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcfraposo&show_icons=true&theme=radical)
+![Engcfraposo's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcfraposo&show_icons=true&theme=radical)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engcfraposo&repo=Fun-with-DS-and-Algo&theme=dark"/>
