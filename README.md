@@ -8,4 +8,5 @@ Profissional focado em resultado, sempre em busca de oportunidades e incansável
 Especialista corporativo e estrategista de soluções, com experiência em desenvolvimento e melhoramento de projetos com Styled Component, React-Native-Maps, Leaflet.js, Socket.io, AsyncStorage, JWT e Bcrypt, Cors, Morgan, Banco não relacionais (MongoDb, RealmDB e Redis), Banco Relacionais (MySql, SQL Server, Oracle, Postgres), ORM’s (Mongoose, Sequelize e TypeORM) com microserviços (Docker e Kubenetes) e ferramentas de teste Jest e Enzyme. Com desenvolvimento de diversos ambientes em JavaScript e TypeScript.
 
 ![Engcfraposo's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcfraposo&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engcfraposo&repo=Fun-with-DS-and-Algo&theme=dark"/>
+[![Engcfraposo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engcfraposo&layout=compact)](https://github.com/username=engcfraposo/github-readme-stats)
+
