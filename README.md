@@ -1,4 +1,4 @@
-<div align="center" style="margin: 20px; background:blue;">
+<div align="center" style="margin: 20px;">
   <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEfD4ttP5dE9Q/profile-displaybackgroundimage-shrink_350_1400/0/1645789000741?e=1654732800&v=beta&t=LMIW5a5YdJ8ubAPDRgnD2hCy09Cth-0z3pht8kPOahg" alt="Certification"/>
 </div>
 
@@ -20,7 +20,8 @@ Experience with agile methodologies;
 Good communication and problem solving skills;
 Ability to create high quality functional documentation.
 
-![Engcfraposo's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcfraposo&show_icons=true&theme=radical)
-[![Engcfraposo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engcfraposo&layout=compact&theme=radical)](https://github.com/username=engcfraposo/github-readme-stats)
-
+<div align="center" style="margin: 20px;">
+  ![Engcfraposo's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcfraposo&show_icons=true&theme=radical)
+  [![Engcfraposo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engcfraposo&layout=compact&theme=radical)]   (https://github.com/username=engcfraposo/github-readme-stats)
+</div>
 
