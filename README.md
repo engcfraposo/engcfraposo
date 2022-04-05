@@ -2,7 +2,7 @@
   <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEfD4ttP5dE9Q/profile-displaybackgroundimage-shrink_350_1400/0/1645789000741?e=1654732800&v=beta&t=LMIW5a5YdJ8ubAPDRgnD2hCy09Cth-0z3pht8kPOahg" alt="Certification"/>
 </div>
 
-## Apresentação
+## :rocket Apresentação
 
 Profissional focado em resultado, sempre em busca de oportunidades e incansável em novos desafios e capacidade de aprendizagem rapida, Com excelente comunicação, capacidade para resolução de problemas, habilidades analíticas e de serviços do cliente. Trabalhar em conjunto e m busca do melhor para na empresa e o cliente, facilidade em aprimorar novas competências e com currículo baseado em gestão de projetos. Com experiência de 7 anos como especialista de infraestrutura de Cloud Backup e Monitoramento adquirindo acreditação técnica e em vendas em Veeam Backup Replication.
 
