@@ -10,4 +10,6 @@ Especialista corporativo e estrategista de soluções, com experiência em desen
 ![Engcfraposo's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcfraposo&show_icons=true&theme=radical)
 [![Engcfraposo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engcfraposo&layout=compact&theme=radical)](https://github.com/username=engcfraposo/github-readme-stats)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dca7de7e-80ae-4048-8964-f2e44841cada" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div style={}>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
