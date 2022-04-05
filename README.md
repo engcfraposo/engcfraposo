@@ -10,6 +10,6 @@ Especialista corporativo e estrategista de soluções, com experiência em desen
 ![Engcfraposo's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcfraposo&show_icons=true&theme=radical)
 [![Engcfraposo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engcfraposo&layout=compact&theme=radical)](https://github.com/username=engcfraposo/github-readme-stats)
 
-<div style={}>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div align="center" style="margin: 20px;">
+  <img src="https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Azure Solution Architect"/>
 </div>
