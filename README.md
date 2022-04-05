@@ -4,12 +4,21 @@
 
 ## :rocket: Apresentação
 
-Profissional focado em resultado, sempre em busca de oportunidades e incansável em novos desafios e capacidade de aprendizagem rapida, Com excelente comunicação, capacidade para resolução de problemas, habilidades analíticas e de serviços do cliente. Trabalhar em conjunto e m busca do melhor para na empresa e o cliente, facilidade em aprimorar novas competências e com currículo baseado em gestão de projetos. Com experiência de 7 anos como especialista de infraestrutura de Cloud Backup e Monitoramento adquirindo acreditação técnica e em vendas em Veeam Backup Replication.
+Corporate specialist and solutions strategist, with experience in developing and improving projects with Styled Component, React-Native-Maps, Leaflet.js, AsyncStorage, JWT and Bcrypt, Cors, Morgan, Non-relational Database (MongoDb, RealmDB and Redis), Relational Database (MySql, SQL Server, Oracle, Postgres), ORM's (Mongoose, Sequelize and TypeORM) with microservices (Docker and Kubenetes) and testing tools Jest and Enzyme. With development of several environments in JavaScript and TypeScript. Certified in Microsoft Certified Azure Administrator, Azure Developer, Azure Fundamentals, Azure AI Fundamentals, Azure Data Fundamentals, Microsoft Security, Compliance, and Identity Fundamentals, AWS Developer Associate and AWS Certified Cloud Practitioner
 
 ## :barber: Especialidades
 
 
-Especialista corporativo e estrategista de soluções, com experiência em desenvolvimento e melhoramento de projetos com Styled Component, React-Native-Maps, Leaflet.js, Socket.io, AsyncStorage, JWT e Bcrypt, Cors, Morgan, Banco não relacionais (MongoDb, RealmDB e Redis), Banco Relacionais (MySql, SQL Server, Oracle, Postgres), ORM’s (Mongoose, Sequelize e TypeORM) com microserviços (Docker e Kubenetes) e ferramentas de teste Jest e Enzyme. Com desenvolvimento de diversos ambientes em JavaScript e TypeScript.
+Perform activities involving React.js, React Native, Node.js, Springboot, Kotlin and Swift, Gitlab GitHub, Mongo, Jenkins, API Gateway Development, Design Patterns, Clean Code, Microservices, Jenkins, Cloud, Android Platform, iOS Platform, Cloud, Reactive Programming, Programming Functional and Object Oriented;
+Mongo Database, Elasticseach Plus;
+Frameworks React.js Hooks, Redux, React Native Swagger Typescript Ecmascript 6, Express, yarn,Gulp plus Jasmine, Coverage, Karma;
+Android Platform and iOS Platform Build Tool;
+Agile Methodology SCRUM;
+Previous experience in application development using react.js, react native and node.js technology;
+Cloud knowledge and continuous integration;
+Experience with agile methodologies;
+Good communication and problem solving skills;
+Ability to create high quality functional documentation.
 
 ![Engcfraposo's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcfraposo&show_icons=true&theme=radical)
 [![Engcfraposo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engcfraposo&layout=compact&theme=radical)](https://github.com/username=engcfraposo/github-readme-stats)
