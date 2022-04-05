@@ -1,6 +1,6 @@
 ## Apresentação
 
-Profissional focado em resultado, sempre em busca de oportunidades e incansável em novos desafios e capacidade de aprendizagem rapida, Com excelente comunicação, capacidade para resolução de problemas, habilidades analíticas e de serviços do cliente. Trabalhar em conjunto e m busca do melhor para na empresa e o cliente, facilidade em aprimorar novas competências e com currículo baseado em gestão de projetos. Com experiência de 5 anos como especialista de infraestrutura de Cloud Backup e Monitoramento adquirindo acreditação técnica e em vendas em Veeam Backup Replication.
+Profissional focado em resultado, sempre em busca de oportunidades e incansável em novos desafios e capacidade de aprendizagem rapida, Com excelente comunicação, capacidade para resolução de problemas, habilidades analíticas e de serviços do cliente. Trabalhar em conjunto e m busca do melhor para na empresa e o cliente, facilidade em aprimorar novas competências e com currículo baseado em gestão de projetos. Com experiência de 7 anos como especialista de infraestrutura de Cloud Backup e Monitoramento adquirindo acreditação técnica e em vendas em Veeam Backup Replication.
 
 ## Especialidades
 
