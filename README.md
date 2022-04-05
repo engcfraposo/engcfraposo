@@ -20,8 +20,8 @@ Experience with agile methodologies;
 Good communication and problem solving skills;
 Ability to create high quality functional documentation.
 
-<div align="center" style="margin: 20px;">
+
   ![Engcfraposo's GitHub stats](https://github-readme-stats.vercel.app/api?username=engcfraposo&show_icons=true&theme=radical)
   [![Engcfraposo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engcfraposo&layout=compact&theme=radical)]   (https://github.com/username=engcfraposo/github-readme-stats)
-</div>
+
 
