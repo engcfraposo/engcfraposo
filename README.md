@@ -1,5 +1,5 @@
 <div align="center" style="margin: 20px;">
-  <img src="https://drive.google.com/file/d/1j3TcUICyl4Zi1M6IVzGVViJ_t-oslTDk/view?usp=sharing" alt="Certification"/>
+  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEfD4ttP5dE9Q/profile-displaybackgroundimage-shrink_350_1400/0/1645789000741?e=1671062400&v=beta&t=aXTBj1hvVbRJ_zefAGCSbkda8cbc0TFFf_2sr3P47jo" alt="Certification"/>
 </div>
 
 ## :rocket: Apresentação
